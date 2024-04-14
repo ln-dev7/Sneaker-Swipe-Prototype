@@ -18,3 +18,19 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.card-1.active {
+  border-color: red;
+}
+
+.card-2.active {
+  border-color: black;
+}
+
+.card-3.active {
+  border-color: orange;
+}
+
+.card-4.active {
+  border-color: blue;
+}
